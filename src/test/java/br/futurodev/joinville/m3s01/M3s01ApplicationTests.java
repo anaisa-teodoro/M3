@@ -1,0 +1,13 @@
+package br.futurodev.joinville.m3s01;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class M3s01ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
